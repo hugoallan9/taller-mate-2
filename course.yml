@@ -1,7 +1,7 @@
 chunks:
 
 -
-    title: "Welcome to the sample course"
+    title: "M204 - Taller de matemática 2"
     id: welcome
     rules:
     -
@@ -14,8 +14,8 @@ chunks:
 
     content: |
 
-        # Hi there!
-
+        # M204 - Taller de Matemática 2!
+        Puedes descargar el programa del curso acá [PDF](repocur:pdfs/m103-P2018.pdf)
         Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
 
         You can also go there using a
