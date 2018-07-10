@@ -14,8 +14,9 @@ chunks:
 
     content: |
 
-        # M204 - Taller de Matemática 2!
-        Puedes descargar el programa del curso acá [PDF](repocur:pdfs/m103-P2018.pdf)
+        # M204 - Taller de Matemática 2
+        Puedes descargar el programa del curso acá [Programa del curso](repocur:pdfs/m103-P2018.pdf)
+        
         Check out the [linear algebra recap](flow:001-linalg-recap). Do it now. Do it.
 
         You can also go there using a
