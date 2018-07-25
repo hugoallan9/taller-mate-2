@@ -14,7 +14,12 @@ chunks:
 
     content: |
 
+
+
         # M204 - Taller de Matemática 2
+
+        <img src="repo:images/fractal.jpg">
+
         Puedes descargar el programa del curso [acá](repocur:pdfs/m204-S2018.pdf)
 
         Toma en cuenta que debes cumplir con las [reglas del curso](staticpage:reglas)
