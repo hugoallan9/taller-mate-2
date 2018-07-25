@@ -43,7 +43,7 @@ rules:
     -
         credit_percent: 0
 
-    pages: |
+    pages: 
     -
         type: Page
         id: subida_tarea1
