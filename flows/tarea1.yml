@@ -42,3 +42,13 @@ rules:
 
     -
         credit_percent: 0
+
+    pages: |
+    -
+        type: Page
+        id: subida_tarea1
+        content: |
+
+            # Tarea 1
+
+            Bla bla
