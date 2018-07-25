@@ -1,0 +1,18 @@
+event_kinds:
+    lecture:
+        title: Lecture {nr}
+        color: blue
+
+    exam:
+        title: Exam {nr}
+        color: red
+
+
+events:
+    "lecture 1":
+        title: "Alternative title for lecture 1"
+        color: red
+        description: 
+
+            * What is Scientific Computing?
+            * Python intro
