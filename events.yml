@@ -7,4 +7,8 @@ event_kinds:
         title: Exam {nr}
         color: red
 
+    Asueto:
+        title: Asueto {nr}
+        color: orange
+
 
