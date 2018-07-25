@@ -12,6 +12,7 @@ events:
     "lecture 1":
         title: "Alternative title for lecture 1"
         color: red
+        date: 2018-07-16
         description: |
             *Pre-lecture material:* [Linear algebra pre-quiz](flow:prequiz-linear-algebra) (not for credit)
 
