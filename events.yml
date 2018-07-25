@@ -12,7 +12,8 @@ events:
     "lecture 1":
         title: "Alternative title for lecture 1"
         color: red
-        description: 
+        description: |
+            *Pre-lecture material:* [Linear algebra pre-quiz](flow:prequiz-linear-algebra) (not for credit)
 
             * What is Scientific Computing?
             * Python intro
