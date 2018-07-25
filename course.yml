@@ -18,7 +18,7 @@ chunks:
 
         # M204 - Taller de Matemática 2
 
-        <img src="repo:images/fractal.jpg">
+        <img src="repo:images/fractal.jpg" width = "30%" height = "30%">
 
         Puedes descargar el programa del curso [acá](repocur:pdfs/m204-S2018.pdf)
 
