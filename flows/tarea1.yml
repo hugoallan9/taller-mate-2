@@ -60,7 +60,7 @@ groups:
             | 254      |    1,2,3,5,7,9 |
             | 255      | 12,13,21,22,26,29,31      |
 
-            rubric: |
+        rubric: |
 
             Para obtener la calificación completa deberá cumplir:
 
