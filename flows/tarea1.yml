@@ -53,4 +53,9 @@ groups:
 
             # Tarea 1
 
-            Bla bla
+            Debe realizar los ejercicios
+
+            | Página        | Ejercicios     |
+            | ------------- |:-------------:|
+            | 254      |    1,2,3,5,7,9 |
+            | 255      | 12,13,21,22,26,29,31      |
