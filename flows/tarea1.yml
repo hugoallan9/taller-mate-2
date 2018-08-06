@@ -49,7 +49,9 @@ groups:
     -
         type: FileUploadQuestion
         id: proof
-        content: |
+        value: 2.5
+        maximum_megabytes: 5
+        prompt: |
 
             # Tarea 1
 
