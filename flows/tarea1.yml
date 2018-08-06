@@ -47,15 +47,25 @@ groups:
     id: intro
     pages: 
     -
-        type: Page
-        id: subida_tarea1
+        type: FileUploadQuestion
+        id: proof
         content: |
 
             # Tarea 1
 
-            Debe realizar los ejercicios del texto *Problem-Solving strategies * de Arthur Engel. 
+            Debe realizar los ejercicios del texto *Problem-Solving strategies* de Arthur Engel. 
 
             | Página        | Ejercicios     |
             | ------------- |:-------------|
             | 254      |    1,2,3,5,7,9 |
             | 255      | 12,13,21,22,26,29,31      |
+
+            rubric: |
+
+            Para obtener la calificación completa deberá cumplir:
+
+            * Usar los temas vistos en clase para la solución (20%)
+            * Uso de LaTeX (30%)
+            * Correcta argumentación (30%)
+            * No tener errores en la argumentación de un problema elegido al azar (10%)
+
