@@ -32,6 +32,9 @@ rules:
     grade_identifier: examen1
     grade_aggregation_strategy: max_grade
 
+    grading:
+    - credit_percent: 100
+
 
 groups:
 -
