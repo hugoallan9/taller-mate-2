@@ -38,7 +38,9 @@ groups:
     -
         type: FileUploadQuestion
         id: examen1
-        value: 12.5|
+        value: 12.5
+        maximum_megabytes: 5
+        prompt: |
 
         rubric: |
 
