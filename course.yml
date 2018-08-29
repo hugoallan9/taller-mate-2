@@ -18,7 +18,7 @@ chunks:
 
         # M204 - Taller de Matemática 2
 
-        <img src="repo:images/portablejim-Programming-addictive-sign.png" width = "40%" height = "40%">
+        <img src="repo:images/fractal.jpg" width = "40%" height = "40%">
 
         ## Generalidades del curso
         El curso M204 - Taller de Matemática 2 se imparte los días Lunes, Martes, Jueves y Viernes
@@ -49,7 +49,7 @@ chunks:
         weight: 200
 
     -
-        shown: False
+        shown: True
         weight: 0
 
     content: |
