@@ -40,5 +40,14 @@ groups:
         id: examen1
         value: 12.5|
 
+        rubric: |
+
+            Para obtener la calificación completa deberá cumplir:
+
+            * Usar los temas vistos en clase para la solución (20%)
+            * Uso de LaTeX (30%)
+            * Correcta argumentación (30%)
+            * No tener errores en la argumentación de un problema elegido al azar (10%)
+
 
 
