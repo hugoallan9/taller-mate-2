@@ -41,11 +41,15 @@ groups:
     id: intro
     pages:
     -
-        type: HumanGradedTextQuestion
+        type: FileUploadQuestion
         id: examen1
         value: 12.5
         prompt: |
             # Examen 1
+
+      mime_types:
+
+          - application/pdf
 
 
 
