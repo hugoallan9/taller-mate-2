@@ -7,9 +7,11 @@ description: |
     tu tarea. 
 
 rules:
+    -
+    shown: False
+
     start:
     -
-        shown: False
         if_has_role: [instructor]
         if_has_fewer_sessions_than: 5
         may_start_new_session: True
