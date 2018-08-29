@@ -36,6 +36,7 @@ groups:
     id: intro
     pages: 
     -
+        type: ShortAnswer
         id: examen1
         value: 12.5|
 
