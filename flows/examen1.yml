@@ -42,6 +42,11 @@ groups:
         maximum_megabytes: 5
         prompt: |
 
+
+        mime_types:
+
+                - application/pdf
+
         rubric: |
 
             Para obtener la calificación completa deberá cumplir:
