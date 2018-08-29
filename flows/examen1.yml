@@ -36,7 +36,6 @@ groups:
     id: intro
     pages: 
     -
-        type: Page
         id: examen1
         value: 12.5|
 
