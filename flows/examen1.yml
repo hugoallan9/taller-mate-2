@@ -7,8 +7,6 @@ description: |
     tu tarea. 
 
 rules:
-    -
-    shown: False
 
     start:
     -
