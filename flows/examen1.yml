@@ -47,7 +47,7 @@ groups:
         prompt: |
             # Examen 1
 
-      mime_types:
+        mime_types:
 
           - application/pdf
 
