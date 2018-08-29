@@ -41,7 +41,7 @@ groups:
         value: 12.5
         maximum_megabytes: 5
         prompt: |
-
+            # Examen 1
 
         mime_types:
 
