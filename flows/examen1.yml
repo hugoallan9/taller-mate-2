@@ -10,10 +10,10 @@ rules:
 
     start:
     -
-        if_before: Tarea 2
+        if_before: 2018-12-31
         if_has_role: [instructor]
-        if_has_fewer_sessions_than: 1
-        may_start_new_session: True
+        if_has_fewer_sessions_than: 5
+        may_start_new_session: False
         may_list_existing_sessions: True
 
     -
@@ -27,9 +27,9 @@ rules:
          message: "Bienvenido, tu tarea 1 está lista."
 
      -
-         permissions: [view, see_correctness, see_answer_after_submission]
+         permissions: [view, modify, see_correctness, see_answer_after_submission]
 
-    grade_identifier: tarea2
+    grade_identifier: examen1
     grade_aggregation_strategy: max_grade
 
     grading:
