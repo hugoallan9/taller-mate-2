@@ -47,24 +47,14 @@ groups:
     id: intro
     pages:
     -
-        type: FileUploadQuestion
+        type: HumanGradedTextQuestion
         id: proof
-        value: 2.5
-        maximum_megabytes: 5
+        value: 10
         prompt: |
 
-            # Tarea 1
+            # Ejercicio 1
 
-            Debe realizar los ejercicios del texto *Problem-Solving strategies* de Arthur Engel.
-
-            | Página        | Ejercicios     |
-            | ------------- |:-------------|
-            | 254      |    1,2,3,5,7,9 |
-            | 255      | 12,13,21,22,26,29,31      |
-
-        mime_types:
-
-            - application/pdf
+            Hola mundo $a + b$
 
         rubric: |
 
