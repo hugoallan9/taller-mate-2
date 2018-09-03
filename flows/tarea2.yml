@@ -50,7 +50,7 @@ groups:
         type: Page
         id: proof
         value: 10
-        prompt: |
+        content: |
 
             # Ejercicio 1
 
