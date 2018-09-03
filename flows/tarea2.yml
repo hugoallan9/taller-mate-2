@@ -47,7 +47,7 @@ groups:
     id: intro
     pages:
     -
-        type: HumanGradedTextQuestion
+        type: Page
         id: proof
         value: 10
         prompt: |
