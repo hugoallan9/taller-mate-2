@@ -3,8 +3,7 @@ description: |
 
     # Tarea 2
 
-    En esta tarea deberás contestar pregunta por pregunta escribiendo la solución en cada caso. Recuerda que el editor soporta
-    escritura en código $\LaTeX$
+    Recuerda escribir tus soluciones usando  $\LaTeX$
 
 rules:
     start:
@@ -47,14 +46,21 @@ groups:
     id: intro
     pages:
     -
-        type: Page
+        type: FileUploadQuestion
         id: proof
-        value: 10
-        content: |
+        value: 2.5
+        prompt: |
 
-            # Ejercicio 1
+            # Tarea 2
 
-            Hola mundo $a + b$
+            [acá](repocur:pdfs/Tarea2-2018.pdf)
 
-       
+        rubric: |
+
+            Para obtener la calificación completa deberá cumplir:
+
+            * Usar los temas vistos en clase para la solución (20%)
+            * Uso de LaTeX (30%)
+            * Correcta argumentación (30%)
+            * No tener errores en la argumentación de un problema elegido al azar (10%)
 
