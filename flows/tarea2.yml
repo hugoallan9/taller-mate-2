@@ -48,6 +48,7 @@ groups:
     -
         type: FileUploadQuestion
         id: proof
+        maximum_megabytes: 8
         value: 2.5
         prompt: |
 
