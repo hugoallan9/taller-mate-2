@@ -55,6 +55,10 @@ groups:
 
             [acá](repocur:pdfs/Tarea2-2018.pdf)
 
+        mime_types:
+
+                - application/pdf
+
         rubric: |
 
             Para obtener la calificación completa deberá cumplir:
