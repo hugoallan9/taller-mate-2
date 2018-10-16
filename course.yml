@@ -35,8 +35,13 @@ chunks:
 
         ## Tareas
         [Tarea 1](flow:tarea1)
-        
+
         [Tarea 2](flow:tarea2)
+
+        ## Expresión para ejercicio visto en clase
+
+        La expresión correcta para el ejercicio que deben intentar resolver para el jueves 18/10/2018
+        $a_k = a_{k-1} + \frac{a_{k-1}^2}{n}$
 
         
 
